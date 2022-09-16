@@ -10,7 +10,7 @@ function ConversorMoedas() {
       <h1>Conversor de moedas</h1>
       <Jumbotron>
         <Form>
-          <Form.Row>
+          <Form.Row> 
             <Col sm="3">
               <Form.Control placeholder='0' value={1} required/>
             </Col>
